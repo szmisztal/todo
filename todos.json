@@ -1,0 +1,1 @@
+[{"id": 1, "expense": "Bills", "cost": 69.5, "paid": false}, {"id": 2, "expense": "Phone", "cost": 456, "paid": true}, {"id": 3, "expense": "Shopping", "cost": 50.0, "paid": false}, {"id": 4, "expense": "Hobby", "cost": 30.5, "paid": true}, {"id": 5, "expense": "Auto", "cost": 4000, "paid": true}]
